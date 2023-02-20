@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TCPClient (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TCPClient (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
