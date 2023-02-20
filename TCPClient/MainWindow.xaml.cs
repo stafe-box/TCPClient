@@ -55,7 +55,7 @@ namespace TCPClient
             MessageBox.PlaceholderText = "Введите сообщкение здесь";
             IPBox.PlaceholderText = "Введите IP адрес";
             myButton.Content = "Отправить";
-            ResultBox.Text = "Ответ";
+            ResultBox.PlaceholderText = "Ответ";
         }
 
         private async void myButton_Click(object sender, RoutedEventArgs e)
